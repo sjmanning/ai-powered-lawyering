@@ -1,0 +1,29 @@
+\begin{table}[!htbp]
+\centering
+\caption{Treatment Effects on Clarity Across Tasks}
+\label{tab:clarity_effects}
+\begin{tabular}{lcccccc}
+\hline\hline
+Task & Control Mean & Model & Effect & SE & \% Change & N \\
+\hline
+\multirow{2}{*}{Draft Client Email} & \multirow{2}{*}{$4.114$} & Vincent & $1.068^{***}$ & ($0.281$) & $+26.0\%$ & 135 \\
+& & o1-preview & $1.078^{***}$ & ($0.271$) & $+26.2\%$ & 135 \\
+\hline
+\multirow{2}{*}{Draft Legal Memo} & \multirow{2}{*}{$3.349$} & Vincent & $0.698^{***}$ & ($0.251$) & $+20.8\%$ & 125 \\
+& & o1-preview & $0.856^{***}$ & ($0.261$) & $+25.6\%$ & 125 \\
+\hline
+\multirow{2}{*}{Analysis of Complaint} & \multirow{2}{*}{$5.050$} & Vincent & $0.155$ & ($0.232$) & $+3.1\%$ & 127 \\
+& & o1-preview & $0.183$ & ($0.244$) & $+3.6\%$ & 127 \\
+\hline
+\multirow{2}{*}{Draft NDA} & \multirow{2}{*}{$5.140$} & Vincent & $0.066$ & ($0.162$) & $+1.3\%$ & 127 \\
+& & o1-preview & $-0.206$ & ($0.191$) & $-4.0\%$ & 127 \\
+\hline
+\multirow{2}{*}{Draft Motion to Consolidate} & \multirow{2}{*}{$3.422$} & Vincent & $0.461^{**}$ & ($0.189$) & $+13.5\%$ & 126 \\
+& & o1-preview & $0.815^{***}$ & ($0.183$) & $+23.8\%$ & 126 \\
+\hline
+\multirow{2}{*}{Draft CNC Enforcement Letter} & \multirow{2}{*}{$4.436$} & Vincent & $0.178$ & ($0.299$) & $+4.0\%$ & 126 \\
+& & o1-preview & $0.750^{***}$ & ($0.281$) & $+16.9\%$ & 126 \\
+\hline
+\multicolumn{7}{p{0.95\linewidth}}{\footnotesize \textit{Notes:} Effects shown as absolute increase relative to No AI control group. Percent changes calculated relative to control group mean. Robust standard errors in parentheses. $^{***}p<0.01$, $^{**}p<0.05$, $^{*}p<0.1$. Sample size (N) represents the number of observations used in the regression.}
+\end{tabular}
+\end{table}

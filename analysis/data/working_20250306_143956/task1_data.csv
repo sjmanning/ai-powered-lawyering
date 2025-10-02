@@ -1,0 +1,155 @@
+Student_Number,P1_Criteria_1_Accuracy,P1_Criteria_2_Analysis,P1_Criteria_3_Organization,P1_Criteria_4_Clarity,P1_Criteria_5_Professionalism,P1_Total_Score,P1_Grade,P1_Hallucination,P1_Hallucination_Note,P1_Notes,Time_Spent_Assignment_1,Group,AI_Condition
+c1f9916910cd4128,2,2,3,3,6,16,B-,,,,60.0,C,Vincent
+7316aefcd59a0b74,2,2,2,2,3,11,C+, ,,,40.0,A,No AI
+1167a8417b14a001,6,6,7,7,6,32,A-,,,,49.0,A,No AI
+ec2ed9ca82601e42,,,,,, , ,,,,,A,No AI
+5eb1b92aee244e2a,2,2,2,2,2,10,C+,,,,37.0,A,No AI
+065a189f3e847a38,5,4,5,6,4,24,B+,,,,60.0,A,No AI
+865d47f31de717c9,1,2,4,4,3,14,B-,,,,15.0,C,Vincent
+1777a66aff697497,5,5,4,6,6,26,B+,,,,60.0,C,Vincent
+6ec4e59da50d8f3a,2,3,4,5,5,19,B,,,,40.0,B,GPT 01
+353f2cb98f3467b5,,,,,, ,,,,,,C,Vincent
+4fdc1cc6f372410e,6,6,6,5,7,30,A-,,,,60.0,A,No AI
+ddbc5bb6018f9e0f,4,4,4,4,6,22,B ,,,,20.0,C,Vincent
+1bcba07e11b7af99,6,5,6,7,7,31,A-,,,,55.0,B,GPT 01
+4c56c0d8e61ed412,6,7,7,6,7,33,A,,,,50.0,C,Vincent
+3d53c1b0295b9a26,2,3,3,5,4,17,B- ,,,,60.0,A,No AI
+544af5e3f23bd87a,2,3,4,5,4,18,B-,,,,42.0,B,GPT 01
+f3ca044a6fc18861,4,3,3,5,5,20,B ,,,,38.0,C,Vincent
+ad4e0a23d55a9bc2,5,5,6,7,7,30,A-,,,,19.0,C,Vincent
+9109b13b11fd7782,5,5,5,4,4,23,B+,,,,50.0,A,No AI
+6a370e860ed24357,6,5,6,7,6,30,A- ,,,,57.0,C,Vincent
+5c031f15ede898cb,5,4,5,5,5,24,B+,,,,60.0,C,Vincent
+8f7e1a35f9425a0e,,, ,,, ,,,,,,B,GPT 01
+13b6a1020ad46272,2,3,3,5,5,18,B,,,,60.0,B,GPT 01
+7c4f2cdf9a7ba025,7,6,6,7,7,33,A,,,,20.0,B,GPT 01
+c55ed9175b0738c2,6,5,6,7,7,31,A-,,,,57.0,B,GPT 01
+33c5096295ad6e13, , , , , , , ,,,,,C,Vincent
+b382a87f990db71a,,,,,, ,,,,,,C,Vincent
+e0586dd6ba414274,3,4,4,4,4,19,B,,,,60.0,A,No AI
+7e107a9c0ebdc482,6,7,7,5,7,32,A-,,,,56.0,C,Vincent
+2bfdab79d93e7bce,3,3,3,6,5,20,B ,,,,30.0,B,GPT 01
+f4534ca99db52354,1,2,2,4,6,15,B-,,,,42.0,B,GPT 01
+889b30f2a988ff0a,6,5,6,6,6,29,A-,,,,59.0,B,GPT 01
+efbfc0f029c0ac5f,3,4,5,5,5,22,B,,,,30.0,C,Vincent
+1532b47abfa256d4,1,2,4,5,3,15,B-,,,,51.0,B,GPT 01
+824bb66524753233,6,6,7,6,7,32,A- ,,,,60.0,C,Vincent
+f89651d646f1ab95,5,5,4,5,7,26,B+,,,,55.0,A,No AI
+02a6298460b477ce,4,2,4,6,2,18,B,,,,60.0,B,GPT 01
+3b79cd5d4dc9545c,4,4,4,6,6,24,B+,,,,35.0,C,Vincent
+d43b490ad3b330c7, , , , , , , ,,,,,B,GPT 01
+81703482b559611e,1,2,4,5,4,16,B,,,,26.0,B,GPT 01
+8b3794f02b5e4db5,4,5,4,6,4,23,B+,,,,16.0,C,Vincent
+79d436c6314eda33,2,3,4,5,3,17,B- ,,,,45.0,A,No AI
+9be12b158467797d,5,5,4,5,6,25,B+ ,,,,36.0,C,Vincent
+820ef4cb24626154,6,7,6,5,7,31,A-,,,,50.0,B,GPT 01
+b342e13cf1dcabea,4,4,4,4,5,21,B ,,,,43.0,C,Vincent
+bfd51df7115d0bee,3,5,5,6,6,25,B+,,,,42.0,B,GPT 01
+8fd8eb1d02d74b73,2,2,3,3,4,14,B-,,,,57.0,A,No AI
+60f4a10cf0e76952,4,4,4,5,6,23,B+,,,,52.0,A,No AI
+f7b9fdfc04c988ab,4,3,3,5,3,18,B,,,,58.0,A,No AI
+446f96dc3003002c,6,6,6,6,7,31,A-,,,,60.0,A,No AI
+d2aff30970fe0d4c,5,6,6,5,6,28,A-,,,,48.0,C,Vincent
+7f1b0f735e644984,4,4,3,6,7,24,B+,,,,55.0,B,GPT 01
+742df284c8614f30,2,3,3,5,4,17,B-,,,,59.0,C,Vincent
+8cdf78ab6a3a812f,,,,,, , ,,,,,B,GPT 01
+9ee9f3b5b5934e01,1,1,2,4,2,10,A-,,,,42.0,B,GPT 01
+af90ee0cf16ffd33,6,6,7,6,7,32,A-,,,,60.0,C,Vincent
+2c2689aba2638d95, , , , , , , ,,,,,A,No AI
+ce5032424903d61d,1,3,4,5,2,15,B-,,,,33.0,B,GPT 01
+1d27419a27bc132a,4,5,6,6,7,28,A- ,,,,35.0,B,GPT 01
+68c3cbbda9ab9909,3,3,4,3,5,18,B ,,,,60.0,B,GPT 01
+475d59d3b81d4bac,1,2,2,2,3,10,C+,,,,50.0,A,No AI
+ef03ab8ccbaa668b,2,3,2,2,1,10,C+,,,,60.0,C,Vincent
+dd5b4506ccb8edff,2,2,2,4,6,16,B-,,,,55.0,B,GPT 01
+2cd520fd07667404,1,2,4,6,6,19,B ,,,,17.0,B,GPT 01
+e5515ac0c0f126c6,1,1,1,3,2,8,C+,,,,28.0,A,No AI
+7eb33ecb29043786,3,5,4,6,5,23,B+,,,,27.0,B,GPT 01
+7d228f6d656337bb,1,1,3,6,1,12,C+,,,,39.0,B,GPT 01
+cdb181d570ee13d8,2,2,2,3,2,11,C+,,,,59.0,A,No AI
+1a20cabcd1a8d41b,6,6,6,6,7,31,A-,,,,59.0,C,Vincent
+e58dc153e9c0e8e4,4,5,5,5,7,26,B+,,,,52.0,C,Vincent
+f719e16be770c0b8,1,1,3,3,2,10,C+,,,,45.0,A,No AI
+43f61b7cd08cc6c4,5,5,5,6,6,27,B+,,,,58.0,C,Vincent
+078cae7e345937f3,4,4,5,4,5,22,B,,,,37.0,A,No AI
+8a1109561512c218,3,4,4,4,4,19,B ,,,,35.0,C,Vincent
+f418aa093c4203e9,1,1,1,1,1,5,C ,,,,60.0,A,No AI
+2657ee4bf9f4af9e,5,5,6,6,7,29,A-,,,,35.0,B,GPT 01
+aa1baebc4a1d7593,6,6,7,7,7,33,A ,,,,40.0,C,Vincent
+191cebe1180b87c5,3,4,5,6,6,24,B+, ,,,56.0,B,GPT 01
+57704d5ad8b677c6, , , , , , , ,,,,,A,No AI
+66f7ab8e6000f22a,1,3,4,2,3,13,B-,,,,60.0,A,No AI
+61cf76867144f7f2,1,2,4,4,2,13,B-,,,,45.0,C,Vincent
+8a8a16cd60695e63,2,3,4,5,5,19,B ,,,,40.0,C,Vincent
+8917388e20196b3b,4,4,5,6,6,25,B+,,,,55.0,A,No AI
+4a4289064cdbdc09, , , , , , , ,,,,,A,No AI
+8b9bdb0a143ba05b,1,3,4,6,3,17,B-,,,,44.0,C,Vincent
+2cf399b1e4b8218b, , , , , , , ,,,,,A,No AI
+97fba5cb44daf59a,4,5,5,4,5,23,B+,,,,52.0,A,No AI
+8873cf8f31074e16,3,3,4,3,3,16,B-,,,,57.0,A,No AI
+724b54dabebd5f65,4,4,5,5,3,21,B,,,,,A,No AI
+4b83c41e5327c306,2,3,3,3,5,16,B-,1,"1) Hawkinson v. Montoya, 830 F. Supp. 2d 1066 (D. Colo. 2011) (Several decisions with that case name exist, but none in 2011 and not at that citation. 830 F.Supp.2d 1066 points to the middle of a 2011 D.Idaho case Rhoades v. Reinke. 2) Koch v. Koch Industries, Inc., 203 F.3d 1202 (10th Cir. 2000) is cited as referencing Kansas law on absolute privilege, but that term (or concept) does not appear in the opinion. ",,60.0,B,GPT 01
+430c3b797887e240,1,2,1,2,1,7,C,,,,32.0,A,No AI
+33801e2d42ffddfc,2,3,4,5,5,19,B,,,,60.0,A,No AI
+7dd7e803832f1b53,1,2,4,5,4,16,B-,,,,41.0,B,GPT 01
+8e8ec402ff41e278,3,4,5,6,6,24,B+,,,,56.0,A,No AI
+29041031c3d5738c,4,5,4,6,7,26,B,,,"Weird format, odd non-legal sources, strange tangents, lack of clear citations. Odd.",51.0,C,Vincent
+1f60b1ad89313d0d,3,4,5,6,6,24,B+,,,,36.0,B,GPT 01
+421124a6a4ec2792,2,2,5,6,6,21,B,1,"Cited case does not appear to exist: Geigle v. Denver Metro. Convention & Visitors Bureau, 952 F.2d 1170 (10th Cir.
+1991). That cite "" 952 F.2d 1170"" points to U.S. v. Hall, a 1991 9th Circuit criminal sentencing appeal. No case with that name could be located.",,20.0,B,GPT 01
+26f3d54698dd2636,2,2,4,5,5,18,B,,,,43.0,B,GPT 01
+f3e93859c85d9caf,1,1,3,3,1,9,C+,,,,53.0,A,No AI
+7fb6a95e77f2886e,2,2,2,3,2,11,C+,,,,41.0,A,No AI
+069503ef9c782673,3,3,6,6,7,25,B+,,,,36.0,B,GPT 01
+4145e4dd01e45431,4,5,6,4,7,26,B+,,,,50.0,A,No AI
+a6a04fd22939f38a,2,3,6,5,6,22,B ,,,,45.0,B,GPT 01
+237698639e9c4d30,4,5,6,6,6,27,B+,,,,58.0,A,No AI
+2da3540d563c6034,5,6,6,6,7,30,A-,,,,50.0,A,No AI
+70204533c2ea64a7,3,3,4,5,5,20,B,,,"""hit them back""",50.0,C,Vincent
+f9afd8e31ee8a875,3,4,5,5,5,22,B,,,,45.0,A,No AI
+e08dd06e4e008462,2,3,5,5,6,21,B,,,,26.0,C,Vincent
+5e4dc1276a5cbfd1,1,2,2,3,2,10,C+,,,,50.0,C,Vincent
+de22252a67fcc399,4,5,6,7,6,28,A-,,,,54.0,C,Vincent
+c93c749489f4cc74,6,6,6,6,7,31,A-,,,,53.0,A,No AI
+63f3737ed386432b,4,5,5,5,7,26,B+,,,,60.0,B,GPT 01
+fd8b9815d1fcaf22,,,,,, ,,,,,,C,Vincent
+22357cb4b713c556,5,5,5,4,6,25,B+,,,,23.0,A,No AI
+632e8584adc40b35,3,4,5,5,6,23,B+,,,,52.0,C,Vincent
+b066caa360c869a0,1,2,3,3,4,13,B-,,,,45.0,A,No AI
+eb817297c2e6d83a,6,5,5,6,7,29,A-,,,,37.0,C,Vincent
+17a215d736ecc60d,2,3,3,5,7,20,B,,,,47.0,B,GPT 01
+154726f1d96f65a1, , , , , , , ,,,,,C,Vincent
+69d5d27764fbbaac,5,5,5,5,7,27,B+,,,,42.0,B,GPT 01
+3088c17c41bb79cf,1,1,2,2,1,7,C,,,MN law; wrong context,46.0,A,No AI
+4f612a8708358179, ,,,,, ,,,,,,A,No AI
+8c09cd568a2f07d6,2,3,4,3,3,15,B-,,,,40.0,B,GPT 01
+8944194b2121b319,2,3,5,5,7,22,B,,,,43.0,B,GPT 01
+75bfae39ea7d8d5b,3,5,5,7,6,26,B+,,,,54.0,B,GPT 01
+17ca821110ac1fa2,4,5,5,6,7,27,B+,,,,43.0,C,Vincent
+99036510fd96b8f9,,,,,, ,,,,,,B,GPT 01
+422317341c3e815e,5,5,5,4,6,25,B+,,,,35.0,B,GPT 01
+e74d00befb08510a,2,2,3,5,6,18,B,,,,50.0,B,GPT 01
+d64f01781e54567f,2,2,4,4,5,17,B-,,,,49.0,B,GPT 01
+1ab6eb774f9416f2, , , , , , , ,,,,,A,No AI
+0fa325208d547822,1,2,3,3,3,12,C+,,,,25.0,B,GPT 01
+d1082f98da60718d,2,3,4,4,5,18,B ,,,,50.0,B,GPT 01
+f91d96f422d5707e,2,3,3,4,5,17,B-,,,,35.0,A,No AI
+05c223da1342eb22,3,4,5,5,7,24,B+,,,,43.0,B,GPT 01
+15947270bb099c07,6,6,6,5,7,30,A-,,,,51.0,A,No AI
+eb0657499c70202f,6,5,6,6,7,30,A-,,,,58.0,A,No AI
+0534f6d47f4a21f6,2,3,5,6,5,21,B,,,,51.0,C,Vincent
+11d471df43205dfb,1,2,3,3,3,12,C+,,,,47.0,C,Vincent
+e0a9f0ffff131843,5,5,4,6,7,27,A-,,,,47.0,C,Vincent
+b0eea11d8aa104e7,4,4,5,5,4,22,B,,,,34.0,C,Vincent
+22eaed27a6a72a3c,,,,,,,,,,Excluded for doing all three treatments,40.0,C,Vincent
+d8bb952342c588bb,2,2,4,4,5,17,B-,,,,60.0,B,GPT 01
+bf1a26353df9965e,5,6,6,6,7,30,A-,,,,58.0,B,GPT 01
+09c545b24ffb476e,4,5,5,4,5,23,B+,,,,45.0,A,No AI
+a40efe211e46e49a,4,5,4,3,3,19,B,,,,59.0,A,No AI
+7384d11c263ac7d9,3,5,5,4,5,22,B,,,,57.0,A,No AI
+9e2e00fa7c285ff5,3,5,4,4,3,19,B,,,,15.0,C,Vincent
+eab55a7284651fe8,2,3,5,6,3,19,B,,,,15.0,C,Vincent
+fc7f934bbaf5bcc5,2,2,2,5,2,13,C+,,,,45.0,C,Vincent
+eb6be2f6ae0e29b1,3,3,5,5,3,19,B,,,,30.0,C,Vincent
+98bd1346a5fce77b,1,4,4,6,4,19,B,,,,52.0,B,GPT 01
+a067276138a65c6a,,,,,,0,,,,,,C,Vincent

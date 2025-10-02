@@ -1,0 +1,156 @@
+Student_Number,P2_Criteria_1_Accuracy,P2_Criteria_2_Analysis,P2_Criteria_3_Organization,P2_Criteria_4_Clarity,P2_Criteria_5_Professionalism,P2_Total_Score,P2_Grade,P2_Hallucination,P2_Hallucination_Note,P2_Notes,Time_Spent_Assignment_2,Group,AI_Condition
+c1f9916910cd4128,4.0,3.0,6.0,2.0,4.0,19.0,B,,,,240.0,C,GPT 01
+7316aefcd59a0b74,2.0,3.0,5.0,3.0,4.0,17.0,B-,,,,53.0,A,Vincent
+1167a8417b14a001,4.0,4.0,4.0,3.0,4.0,19.0,B,,,,42.0,A,Vincent
+ec2ed9ca82601e42,4.0,3.0,3.0,2.0,4.0,16.0,B-,,,,,A,Vincent
+5eb1b92aee244e2a,3.0,4.0,4.0,2.0,2.0,15.0,B-,,,"Didn't finish the Conclusion, although had several hundred words left to use. Last sentence reads: ""In sum, neither Massachusetts nor New Hampshire case law require payment of""",190.0,A,Vincent
+065a189f3e847a38,3.0,3.0,3.0,4.0,2.0,15.0,B-,,,About 1/3 of word limit,240.0,A,Vincent
+865d47f31de717c9,,,,,,,,,,No Submission,129.0,C,GPT 01
+1777a66aff697497,5.0,5.0,6.0,5.0,6.0,27.0,B+,,,,240.0,C,GPT 01
+6ec4e59da50d8f3a,3.0,4.0,2.0,4.0,3.0,16.0,B-,,,Left name in,120.0,B,No AI
+353f2cb98f3467b5,,,,,,,,,,No Submission,,C,GPT 01
+4fdc1cc6f372410e,2.0,3.0,5.0,4.0,5.0,19.0,B,,,,195.0,A,Vincent
+ddbc5bb6018f9e0f,2.0,3.0,6.0,5.0,5.0,21.0,B,,,,117.0,C,GPT 01
+1bcba07e11b7af99,5.0,5.0,5.0,6.0,6.0,27.0,B+,,,,170.0,B,No AI
+4c56c0d8e61ed412,3.0,3.0,6.0,4.0,6.0,22.0,B,,,,232.0,C,GPT 01
+3d53c1b0295b9a26,2.0,2.0,5.0,3.0,5.0,17.0,B-,,,,120.0,A,Vincent
+544af5e3f23bd87a,3.0,4.0,6.0,5.0,3.0,21.0,B,,,,239.0,B,No AI
+f3ca044a6fc18861,,,,,,,,,,No Submission,,C,GPT 01
+ad4e0a23d55a9bc2,2.0,3.0,6.0,4.0,4.0,19.0,B,,,Went over by 39 words,95.0,C,GPT 01
+9109b13b11fd7782,2.0,3.0,7.0,4.0,6.0,22.0,B,,,,197.0,A,Vincent
+6a370e860ed24357,4.0,4.0,5.0,4.0,6.0,23.0,B,,,,225.0,C,GPT 01
+5c031f15ede898cb,,,,,,,,,,,,C,GPT 01
+8f7e1a35f9425a0e,,,,,,,,,,,,B,No AI
+13b6a1020ad46272,2.0,1.0,1.0,1.0,1.0,6.0,C,,,Only wrote 350 words (out of 1500),120.0,B,No AI
+7c4f2cdf9a7ba025,2.0,2.0,2.0,2.0,1.0,9.0,C+,,,Only wrote 537 words (out of 1500),180.0,B,No AI
+c55ed9175b0738c2,,,,,,,,,,,,B,No AI
+33c5096295ad6e13,,,,,,,,,,,,C,GPT 01
+b382a87f990db71a,,,,,,,,,,,,C,GPT 01
+e0586dd6ba414274,5.0,5.0,6.0,4.0,6.0,26.0,B+,,,,240.0,A,Vincent
+7e107a9c0ebdc482,5.0,6.0,6.0,5.0,7.0,29.0,A-,,,,165.0,C,GPT 01
+2bfdab79d93e7bce,2.0,2.0,5.0,4.0,2.0,15.0,B-,,,,190.0,B,No AI
+f4534ca99db52354,,,,,,,,,,,,B,No AI
+889b30f2a988ff0a,3.0,3.0,5.0,4.0,5.0,20.0,B,,,,189.0,B,No AI
+efbfc0f029c0ac5f,2.0,4.0,5.0,4.0,6.0,21.0,B,,,,190.0,C,GPT 01
+1532b47abfa256d4,1.0,2.0,3.0,3.0,4.0,13.0,B-,,,,122.0,B,No AI
+824bb66524753233,6.0,5.0,6.0,6.0,7.0,30.0,A-,,,,240.0,C,GPT 01
+f89651d646f1ab95,4.0,4.0,5.0,4.0,5.0,22.0,B,,,,240.0,A,Vincent
+02a6298460b477ce,4.0,4.0,5.0,2.0,5.0,20.0,B,,,,171.0,B,No AI
+3b79cd5d4dc9545c,2.0,3.0,4.0,3.0,6.0,18.0,B,,,,109.0,C,GPT 01
+d43b490ad3b330c7,,,,,,,B,,,,,B,No AI
+81703482b559611e,2.0,2.0,5.0,4.0,2.0,15.0,B-,,,,164.0,B,No AI
+8b3794f02b5e4db5,2.0,4.0,6.0,4.0,6.0,22.0,B,,,,214.0,C,GPT 01
+79d436c6314eda33,1.0,1.0,1.0,2.0,2.0,7.0,C,,,,150.0,A,Vincent
+9be12b158467797d,4.0,5.0,6.0,6.0,6.0,27.0,B+,,,,120.0,C,GPT 01
+820ef4cb24626154,2.0,4.0,5.0,5.0,5.0,21.0,B,,,,160.0,B,No AI
+b342e13cf1dcabea,2.0,3.0,6.0,4.0,6.0,21.0,B,,,,207.0,C,GPT 01
+bfd51df7115d0bee,5.0,5.0,6.0,4.0,5.0,25.0,B+,,,,155.0,B,No AI
+8fd8eb1d02d74b73,,,,,,,,,,Uploaded wrong document?,135.0,A,Vincent
+60f4a10cf0e76952,2.0,2.0,3.0,3.0,3.0,13.0,B-,,,,113.0,A,Vincent
+f7b9fdfc04c988ab,6.0,6.0,6.0,6.0,6.0,30.0,A-,,,,135.0,A,Vincent
+446f96dc3003002c,4.0,4.0,4.0,5.0,6.0,23.0,B+,,,,187.0,A,Vincent
+d2aff30970fe0d4c,1.0,2.0,3.0,3.0,4.0,13.0,B-,,,,200.0,C,GPT 01
+7f1b0f735e644984,4.0,4.0,6.0,4.0,6.0,24.0,B+,,,,238.0,B,No AI
+742df284c8614f30,4.0,4.0,6.0,4.0,6.0,24.0,B+,,,,190.0,C,GPT 01
+8cdf78ab6a3a812f,,,,,,,,,,,,B,No AI
+9ee9f3b5b5934e01,2.0,2.0,2.0,3.0,1.0,10.0,C+,,,Said had spent most of time on jurisdictional questions. So didn't have time to finish.,240.0,B,No AI
+af90ee0cf16ffd33,4.0,4.0,5.0,4.0,6.0,23.0,B+,,,,139.0,C,GPT 01
+2c2689aba2638d95,,,,,,,,,,,,A,Vincent
+ce5032424903d61d,3.0,3.0,3.0,2.0,2.0,13.0,B-,,,,200.0,B,No AI
+1d27419a27bc132a,4.0,4.0,3.0,4.0,3.0,18.0,B,,,,215.0,B,No AI
+68c3cbbda9ab9909,3.0,4.0,5.0,4.0,4.0,20.0,B,,,,240.0,B,No AI
+475d59d3b81d4bac,3.0,4.0,4.0,4.0,4.0,19.0,B,,,,225.0,A,Vincent
+ef03ab8ccbaa668b,,,,,,,,,,,,C,GPT 01
+dd5b4506ccb8edff,3.0,4.0,6.0,3.0,5.0,21.0,B,,,,150.0,B,No AI
+2cd520fd07667404,2.0,3.0,6.0,4.0,4.0,19.0,B,,,,120.0,B,No AI
+e5515ac0c0f126c6,2.0,2.0,5.0,3.0,4.0,16.0,B-,,,,98.0,A,Vincent
+7eb33ecb29043786,4.0,4.0,4.0,4.0,4.0,20.0,B,,,,155.0,B,No AI
+7d228f6d656337bb,5.0,3.0,6.0,2.0,5.0,21.0,B,,,,106.0,B,No AI
+cdb181d570ee13d8,3.0,5.0,6.0,5.0,5.0,24.0,B+,,,,170.0,A,Vincent
+1a20cabcd1a8d41b,,,,,,,,,,,,C,GPT 01
+e58dc153e9c0e8e4,5.0,5.0,6.0,5.0,6.0,27.0,A-,,,,195.0,C,GPT 01
+f719e16be770c0b8,1.0,2.0,2.0,4.0,2.0,11.0,C+,,,,180.0,A,Vincent
+43f61b7cd08cc6c4,4.0,5.0,6.0,6.0,6.0,27.0,B+,,,,189.0,C,GPT 01
+078cae7e345937f3,3.0,3.0,2.0,3.0,2.0,13.0,B-,,,,240.0,A,Vincent
+8a1109561512c218,2.0,2.0,4.0,4.0,2.0,14.0,B-,,,,167.0,C,GPT 01
+f418aa093c4203e9,3.0,2.0,0.0,4.0,2.0,11.0,C+,,,,194.0,A,Vincent
+2657ee4bf9f4af9e,2.0,2.0,6.0,3.0,5.0,18.0,B,,,,210.0,B,No AI
+aa1baebc4a1d7593,5.0,5.0,6.0,6.0,6.0,28.0,A-,,,,180.0,C,GPT 01
+191cebe1180b87c5,2.0,2.0,2.0,1.0,1.0,8.0,C+,,,,240.0,B,No AI
+57704d5ad8b677c6,,,,,,,,,,,,A,Vincent
+66f7ab8e6000f22a,3.0,4.0,6.0,5.0,6.0,24.0,B+,,,,238.0,A,Vincent
+61cf76867144f7f2,3.0,3.0,6.0,5.0,6.0,23.0,B+,,,,174.0,C,GPT 01
+8a8a16cd60695e63,2.0,3.0,5.0,5.0,4.0,19.0,B,,,,175.0,C,GPT 01
+8917388e20196b3b,4.0,4.0,5.0,5.0,5.0,23.0,B+,,,,45.0,A,Vincent
+4a4289064cdbdc09,,,,,,,,,,,,A,Vincent
+8b9bdb0a143ba05b,2.0,2.0,5.0,3.0,4.0,16.0,B-,1.0,Alaska Case cited as Mass case.,,142.0,C,GPT 01
+2cf399b1e4b8218b,,,,,,,,,,,,A,Vincent
+97fba5cb44daf59a,4.0,4.0,3.0,4.0,5.0,20.0,B,,,,125.0,A,Vincent
+8873cf8f31074e16,3.0,3.0,5.0,5.0,5.0,21.0,B,,,,106.0,A,Vincent
+724b54dabebd5f65,,,,,,,,,,,,A,Vincent
+4b83c41e5327c306,,,,,,,,,,,,B,No AI
+430c3b797887e240,2.0,3.0,5.0,5.0,5.0,20.0,,2.0,One hallucination was the citation to a different case. The other was a fabricated case. ,,120.0,A,Vincent
+33801e2d42ffddfc,4.0,4.0,5.0,5.0,5.0,23.0,B+,,,,225.0,A,Vincent
+7dd7e803832f1b53,3.0,3.0,4.0,3.0,3.0,16.0,B-,,,,184.0,B,No AI
+8e8ec402ff41e278,6.0,6.0,6.0,5.0,6.0,29.0,A-,,,,160.0,A,Vincent
+29041031c3d5738c,3.0,4.0,4.0,5.0,5.0,21.0,B,,,,122.0,C,GPT 01
+1f60b1ad89313d0d,6.0,5.0,6.0,5.0,5.0,27.0,B+,,,,170.0,B,No AI
+421124a6a4ec2792,1.0,1.0,2.0,2.0,1.0,7.0,,,,Student said stopped after 4 hours. Only produced 506 words.,240.0,B,No AI
+26f3d54698dd2636,3.0,3.0,5.0,4.0,5.0,20.0,B+,,,,240.0,B,No AI
+f3e93859c85d9caf,3.0,2.0,3.0,4.0,2.0,14.0,B-,,,,55.0,A,Vincent
+7fb6a95e77f2886e,4.0,4.0,3.0,4.0,3.0,18.0,B,,,,110.0,A,Vincent
+069503ef9c782673,3.0,4.0,6.0,5.0,4.0,22.0,B,,,,220.0,B,No AI
+4145e4dd01e45431,5.0,4.0,6.0,5.0,6.0,26.0,B+,,,,143.0,A,Vincent
+a6a04fd22939f38a,2.0,3.0,2.0,2.0,2.0,11.0,C+,,,,150.0,B,No AI
+237698639e9c4d30,4.0,2.0,1.0,3.0,1.0,11.0,C+,,,,165.0,A,Vincent
+2da3540d563c6034,2.0,4.0,5.0,4.0,4.0,19.0,B,,,,60.0,A,Vincent
+70204533c2ea64a7,,,,,,,,,,,,C,GPT 01
+f9afd8e31ee8a875,4.0,4.0,5.0,5.0,5.0,23.0,B+,,,,120.0,A,Vincent
+e08dd06e4e008462,2.0,4.0,4.0,4.0,5.0,19.0,B,,,,60.0,C,GPT 01
+5e4dc1276a5cbfd1,2.0,4.0,6.0,4.0,5.0,21.0,B,1.0,Citation is to a different case.,,59.0,C,GPT 01
+de22252a67fcc399,2.0,3.0,5.0,4.0,5.0,19.0,B,,,,179.0,C,GPT 01
+c93c749489f4cc74,6.0,6.0,6.0,6.0,6.0,30.0,A-,,,,186.0,A,Vincent
+63f3737ed386432b,4.0,5.0,4.0,4.0,5.0,22.0,B,,,,200.0,B,No AI
+fd8b9815d1fcaf22,,,,,,,,,,,,C,GPT 01
+22357cb4b713c556,3.0,3.0,5.0,4.0,4.0,19.0,B,1.0,"Cited book (""Barry Zaima, Insurance Law Deskbook"") I couldn't find. ",,45.0,A,Vincent
+632e8584adc40b35,3.0,4.0,4.0,4.0,3.0,18.0,B,,,"Student included this message: ""Couple of notes: 1) I mentioned this in assignment three, but I accidentally switched up the time reports for assignments two and three. Assignment three has the time it took me to complete this task. I got really confused about the prompt in this task, and spent almost 2 hours researching and writing on the wrong issue. I had to start over, and was not able to finish in under 4 hours. If I can help clarify this or the time issue, please let me know!""",92.0,C,GPT 01
+b066caa360c869a0,2.0,3.0,4.0,4.0,4.0,17.0,B-,,,,240.0,A,Vincent
+eb817297c2e6d83a,3.0,4.0,5.0,5.0,4.0,21.0,B,,,,144.0,C,GPT 01
+17a215d736ecc60d,4.0,4.0,5.0,5.0,5.0,23.0,B+,,,,158.0,B,No AI
+154726f1d96f65a1,,,,,,,,,,,,C,GPT 01
+69d5d27764fbbaac,5.0,4.0,4.0,4.0,4.0,21.0,B,,,,202.0,B,No AI
+3088c17c41bb79cf,4.0,4.0,4.0,5.0,5.0,22.0,B,,,,169.0,A,Vincent
+4f612a8708358179,,,,,,,,,,,,A,Vincent
+8c09cd568a2f07d6,1.0,1.0,1.0,1.0,1.0,5.0,C,,,,95.0,B,No AI
+8944194b2121b319,2.0,1.0,2.0,2.0,1.0,8.0,C+,,,,165.0,B,No AI
+75bfae39ea7d8d5b,3.0,3.0,5.0,4.0,5.0,20.0,B,,,,146.0,B,No AI
+17ca821110ac1fa2,3.0,4.0,6.0,5.0,6.0,24.0,B+,,,,240.0,C,GPT 01
+99036510fd96b8f9,,,,,,,,,,,,B,No AI
+422317341c3e815e,4.0,4.0,6.0,0.0,4.0,18.0,B,,,,240.0,B,No AI
+e74d00befb08510a,3.0,3.0,4.0,3.0,4.0,17.0,B-,,,,240.0,B,No AI
+d64f01781e54567f,3.0,4.0,4.0,4.0,5.0,20.0,B,,,,240.0,B,No AI
+1ab6eb774f9416f2,,,,,,,,,,,,A,Vincent
+0fa325208d547822,2.0,3.0,4.0,4.0,5.0,18.0,B,,,,90.0,B,No AI
+d1082f98da60718d,2.0,2.0,4.0,4.0,3.0,15.0,B-,,,,210.0,B,No AI
+f91d96f422d5707e,3.0,3.0,4.0,4.0,4.0,18.0,B,,,,165.0,A,Vincent
+05c223da1342eb22,3.0,3.0,4.0,3.0,4.0,17.0,B-,,,,220.0,B,No AI
+15947270bb099c07,4.0,3.0,4.0,4.0,4.0,19.0,B,,,,150.0,A,Vincent
+eb0657499c70202f,4.0,5.0,5.0,5.0,5.0,24.0,B+,,,,156.0,A,Vincent
+0534f6d47f4a21f6,5.0,4.0,4.0,4.0,5.0,22.0,B,,,,201.0,C,GPT 01
+11d471df43205dfb,3.0,3.0,5.0,4.0,3.0,18.0,B,,,Included their name,205.0,C,GPT 01
+e0a9f0ffff131843,5.0,5.0,6.0,5.0,6.0,27.0,B+,,,,73.0,C,GPT 01
+b0eea11d8aa104e7,2.0,2.0,2.0,2.0,4.0,12.0,C+,1.0,Citation is the wrong case.),"Student consistently refers to one of the parties as ""AIG Insurance""",240.0,C,GPT 01
+22eaed27a6a72a3c,2.0,2.0,3.0,3.0,2.0,12.0,C+,,,"Student submitted three different answers: Group A, Group B, Group 3",210.0,C,GPT 01
+d8bb952342c588bb,0.0,0.0,0.0,0.0,0.0,0.0,D,,,"Student included the following note: ""most the time were spent on researching. Research was still not finished. There seems to
+be no brightline rule to establish that the losing party needs to pay for attorney’s fee.""
+",240.0,B,No AI
+bf1a26353df9965e,5.0,3.0,2.0,2.0,3.0,15.0,B-,,,,183.0,B,No AI
+09c545b24ffb476e,3.0,3.0,3.0,4.0,3.0,16.0,B-,,,,180.0,A,Vincent
+a40efe211e46e49a,2.0,3.0,3.0,3.0,4.0,15.0,B-,,,,109.0,A,Vincent
+7384d11c263ac7d9,2.0,3.0,5.0,4.0,5.0,19.0,B,,,,186.0,A,Vincent
+9e2e00fa7c285ff5,2.0,2.0,2.0,2.0,4.0,12.0,C+,1.0,Fabricated case,,25.0,C,GPT 01
+eab55a7284651fe8,2.0,3.0,4.0,4.0,4.0,17.0,B-,2.0,One hallucation was citation to a different case. The other was a fabricated case.,,25.0,C,GPT 01
+fc7f934bbaf5bcc5,3.0,4.0,6.0,4.0,5.0,22.0,B,,,,123.0,C,GPT 01
+eb6be2f6ae0e29b1,2.0,3.0,4.0,4.0,4.0,17.0,B-,,,,45.0,C,GPT 01
+98bd1346a5fce77b,3.0,4.0,5.0,5.0,5.0,22.0,B,,,,165.0,B,No AI
+a067276138a65c6a,,,,,,,,,,,,C,GPT 01
