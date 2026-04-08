@@ -7,7 +7,7 @@ This replication package accompanies the paper:
 Schwarcz, Daniel and Manning, Sam and Barry, Patrick James and Cleveland, David R. and Prescott, J.J. and Rich, Beverly, "AI-Powered Lawyering: AI Reasoning Models, Retrieval Augmented Generation, and the Future of Legal Practice" (March 02, 2025). Minnesota Legal Studies Research Paper No. 25-16, Available at SSRN: https://ssrn.com/abstract=5162111 or http://dx.doi.org/10.2139/ssrn.5162111
 
 ## Configuration
-Before running any notebooks, modify the `config.py` file to set the `master_folder` path to your local repository directory.
+Before running any notebooks, modify the `config.py` file to set the `master_folder` path to your local repository directory, `r_dir_path` to the location of your R executable, and `stata_path` to the location of your stata instance (and the version - 'be', 'se', 'mp').
 
 ## Workflow
 To reproduce the results:
@@ -24,6 +24,11 @@ This repository includes anonymized versions of these data files:
   - Enrollment survey with student background information
   - Post-completion survey with self-reported AI tool effectiveness
 
+## Additional Data Files
+- "Clustered SUR.R": R script to run Seemingly Unrelated Regressions model, executed as part of **anonymized_analysis.ipynb**
+- "Regressions.do": Stata .do file to run main fixed-effects regressions, executed as part of **anonymized_analysis.ipynb**
+- "lincom_results_*": Output files from Regressions.do, enabling the full notebook to run without a stata license.
+
 ## Data Anonymization Details
 All personally identifiable information has been removed through the following process:
 - Participant names and emails replaced with hashed anonymous IDs
@@ -36,4 +41,4 @@ The analysis notebooks generate:
 - .tex tables for publication (treatment effects, balance tables, etc.)
 - .csv data files with results
 
-Each run of the analysis will create a new working folder with timestamped results in the analysis/data directory.
+Each run of the analysis will create a new working folder with timestamped results in the analysis/data directory. 
